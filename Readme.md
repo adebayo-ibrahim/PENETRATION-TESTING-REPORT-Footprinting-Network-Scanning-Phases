@@ -92,16 +92,16 @@ from Internet. List them in below table along with their relevant dork that you 
 
 | No. | Link | Relevant Dork | Username/password(If any) 
 |-|---|---|-|
-| 1. | https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://discrete.openmathbooks.org/pdfs/dmoi4.pdf&ved=2ahUKEwiw9fuI6ISYAxUATkEAHR-UDq0QFnoECCMQAQ&usg=AOvVaw2YtcQmMvRAWMaQ_nhlt-if/ | filetype:pdf "discrete mathematics" | ... |
-| 2. | http://109.233.191.130:8080/ | intitle:"WebcamXP" inurl:8080 | |
-| 3. | http://109.206.96.249:8080/ | intitle:"Webcam" inurl:8080 | |
-| 4. ||||
-| 5. ||||
-| 6. ||||
-| 7. ||||
-| 8. ||||
-| 9. ||||
-| 10. ||||
+| 1. | https://cis.temple.edu/~latecki/Courses/CIS2166-Fall25/RosenDiscreteMath8Ed.pdf | filetype:pdf "discrete mathematics" | ... |
+| 2. | https://www.blackwellpublishing.com/content/BPL_Images/content_store/sample_chapter/9780631218708/Jacquette.pdf | filetype:pdf "mathematics" | ... |
+| 3. | https://www.ulm.edu.pk/departments/admin/upload/downloads/202110030921.pdf | filetype:pdf "mathematics" | |
+| 4. | https://files.eric.ed.gov/fulltext/EJ1443583.pdf | filetype:pdf "mathematics" | ... |
+| 5. | https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf | filetype:pdf "mathematics" | ... |
+| 6. | file:///C:/Users/Owner/Downloads/Vol+19(3)+pp+819-827+Agbata+et+al..pdf | filetype:pdf "mathematics" | ... |
+| 7. | https://hal.science/hal-04362941v2/file/notes%20%281%29.pdf | filetype:pdf "mathematics" | ... |
+| 8. | https://education.gov.scot/media/2i5jiyhe/mathematics-pp.pdf | filetype:pdf "mathematics" | ... |
+| 9. | https://www.nuffieldfoundation.org/wp-content/uploads/2019/12/P6.pdf | filetype:pdf "mathematics" | ... |
+| 10. | https://www.whitman.edu/mathematics/higher_math_online/higher_math.pdf | filetype:pdf "mathematics" | ... |
 
 # PM.3
 
@@ -279,6 +279,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 # PM2 Evidences
 ![webcam](Evidence/webcam.png)
+![math pdf](Evidence/math_pdf.png)
 
 # PM3 Evidences
 ![maltego](Evidence/Maltego.png)
