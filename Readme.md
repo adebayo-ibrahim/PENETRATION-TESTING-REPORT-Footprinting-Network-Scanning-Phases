@@ -105,7 +105,7 @@ from Internet. List them in below table along with their relevant dork that you 
 
 # PM.3
 
-I performed reconnnaissance against networkwalks.com doamin using maltego to find all email address associated with the doamin.
+I performed reconnnaissance against networkwalks.com doamin using maltego to find all email address associated with the domain.
 
 # Task1.
  Downloaded & installed Maltego on a Windows Computer. 
