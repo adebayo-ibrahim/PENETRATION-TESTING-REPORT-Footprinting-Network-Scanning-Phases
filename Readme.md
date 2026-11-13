@@ -93,11 +93,11 @@ from Internet. List them in below table along with their relevant dork that you 
 | No. | Link | Relevant Dork | Username/password(If any) 
 |-|---|---|-|
 | 1. | https://cis.temple.edu/~latecki/Courses/CIS2166-Fall25/RosenDiscreteMath8Ed.pdf | filetype:pdf "discrete mathematics" | ... |
-| 2. | https://www.blackwellpublishing.com/content/BPL_Images/content_store/sample_chapter/9780631218708/Jacquette.pdf | filetype:pdf "mathematics" | ... |
+| 2. | https://stewartschultz.com/statistics/books/Essential%20Mathematics.pdf | filetype:pdf "mathematics" textbook | ... |
 | 3. | https://www.ulm.edu.pk/departments/admin/upload/downloads/202110030921.pdf | filetype:pdf "mathematics" | |
 | 4. | https://files.eric.ed.gov/fulltext/EJ1443583.pdf | filetype:pdf "mathematics" | ... |
 | 5. | https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf | filetype:pdf "mathematics" | ... |
-| 6. | file:///C:/Users/Owner/Downloads/Vol+19(3)+pp+819-827+Agbata+et+al..pdf | filetype:pdf "mathematics" | ... |
+| 6. | https://limestonebd.org/books/a-level-cambridge/p3.pdf | filetype:pdf "mathematics" textbook | ... |
 | 7. | https://hal.science/hal-04362941v2/file/notes%20%281%29.pdf | filetype:pdf "mathematics" | ... |
 | 8. | https://education.gov.scot/media/2i5jiyhe/mathematics-pp.pdf | filetype:pdf "mathematics" | ... |
 | 9. | https://www.nuffieldfoundation.org/wp-content/uploads/2019/12/P6.pdf | filetype:pdf "mathematics" | ... |
