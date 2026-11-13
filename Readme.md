@@ -77,8 +77,8 @@ from Internet. List them in below table along with their relevant dork that you 
 | 1. | http://99.114.240.169:8080/ | intitle:"Webcam" inurl:WebCam.htm | |
 | 2. | http://109.233.191.130:8080/ | intitle:"WebcamXP" inurl:8080 | |
 | 3. | http://109.206.96.249:8080/ | intitle:"Webcam" inurl:8080 | |
-| 4. ||||
-| 5. ||||
+| 4. | http://184.57.102.6:5800/ | intitle:"WebcamXP" | |
+| 5. | http://75.149.26.30:1024/ | intitle:"WebcamXP" | |
 | 6. ||||
 | 7. ||||
 | 8. ||||
