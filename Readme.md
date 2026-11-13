@@ -79,7 +79,7 @@ from Internet. List them in below table along with their relevant dork that you 
 | 3. | http://109.206.96.249:8080/ | intitle:"Webcam" inurl:8080 | |
 | 4. | http://184.57.102.6:5800/ | intitle:"WebcamXP" | |
 | 5. | http://75.149.26.30:1024/ | intitle:"WebcamXP" | |
-| 6. ||||
+| 6. | http://72.199.200.5:8080/ | intitle:"WebcamXP" inurl:8080 | |
 | 7. ||||
 | 8. ||||
 | 9. ||||
@@ -278,6 +278,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 [FP with multiple kali tools pdf](Evidence/FOOTPRINTING%20WITH%20MUTIPLE%20KALI%20LINUX%20TOOLS.pdf)
 
 # PM2 Evidences
+![webcam](Evidence/webcam.png)
 
 # PM3 Evidences
 ![maltego](Evidence/Maltego.png)
