@@ -197,7 +197,7 @@ Based on the information collected during the footprinting and network scanning 
 | 3      | HTTP technical information exposed           | Curl returned HTTP response headers and exposed `/wp-json/` | May assist technology fingerprinting and further enumeration                                                    | **● Low**      |
 | 4      | WAF technology identifiable                  | Wafw00f identified ModSecurity (SpiderLabs)                 | Reveals information about the web application’s security architecture                                           | **● Low**      |
 | 5      | DNS infrastructure information exposed       | DNSRecon identified DNS, mail and service-related records   | DNS information can help build a broader infrastructure profile                                                 | **● Medium**   |
-| 6     | Default webcam password and usernames are unchanges       | Multiple webcam are available and accessible on the web | Attackers can keep tab on the target using those webcams       | **● Medium**   |
+| 6     | Default webcam password and usernames are unchanged      | Multiple webcam are available and accessible on the web | Attackers can keep tab on the target using those webcams       | **● Medium**   |
 | 7     | Multiple live hosts visible on local network | Zenmap identified four live hosts in the example network    | Unknown or unauthorized devices may potentially be present on a network                                         | **● Medium**   |
 
 **Risk level key:** ● Critical ● Medium ● Low
