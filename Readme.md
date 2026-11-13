@@ -80,10 +80,10 @@ from Internet. List them in below table along with their relevant dork that you 
 | 4. | http://184.57.102.6:5800/ | intitle:"WebcamXP" | |
 | 5. | http://75.149.26.30:1024/ | intitle:"WebcamXP" | |
 | 6. | http://72.199.200.5:8080/ | intitle:"WebcamXP" inurl:8080 | |
-| 7. ||||
-| 8. ||||
-| 9. ||||
-| 10. ||||
+| 7. | http://n3enm.dyndns.org:8888/ | intitle:"yawcam" "It's a webcam!" "user" "pass" | |
+| 8. | http://139.64.168.120:8080/ | intitle:"webcamxp 5" intext: "live stream" | |
+| 9. | http://109.206.96.249:8080/ | inurl:/multi.html intitle:webcam | |
+| 10. | http://68.115.218.130:32479/multi.html | inurl:/multi.html intitle:webcam | |
 
 # Task 2.
  Find 10x listings which contain downloadable mathematics ebooks in PDF
